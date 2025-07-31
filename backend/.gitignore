@@ -1,0 +1,32 @@
+# Node.js dependencies
+node_modules/
+
+# Python virtual environment
+vevn/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Database files
+*.db
+*.mov
+*.mp4
+# Static uploads and processed files
+static/uploads/
+static/processed/
+static/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
