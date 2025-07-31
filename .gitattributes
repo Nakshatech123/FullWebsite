@@ -1,0 +1,2 @@
+backend/static/processed/*.MOV filter=lfs diff=lfs merge=lfs -text
+backend/static/uploads/*.MOV filter=lfs diff=lfs merge=lfs -text
